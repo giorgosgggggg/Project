@@ -1,0 +1,65 @@
+body{
+
+font-family: sans-serif;
+background-image: url(https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-1.2.1&w=1000&q=80)
+
+
+
+}
+.container {
+width: 380px;
+margin: auto;
+border-radius: 25px;
+background-color:blue lightblue;
+
+
+
+}
+
+.header {
+text-align: center;
+padding-top: 75px;
+
+
+}
+
+.header h1{
+color: light gray;
+font-size: 45px;
+margin-bottom: 80px;
+
+
+
+}
+
+.main input, button{
+width: 300px;
+height: 40px;
+outline: none;
+padding-left:  40px;
+box-sizing:border-box;
+font-size: 15px;
+color: black;
+margin-bottom: 40px;
+
+
+}
+
+.main button{
+padding-left: 0;
+background-color:crimson;
+
+
+}
+.main span{
+position: relative;
+
+
+}
+.main i{
+position:absolute;
+left: 15px;
+
+
+}
+
