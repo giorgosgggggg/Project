@@ -1,10 +1,9 @@
 # UniversityWebsite
 UniversityWebsite is my first ever Project in WeB Development
 
-#Tecnologies
+## Tecnologies
 
-Javascript
-MongoDB
-Axios
-SASS
-Gulp JS
+- Html
+- Css
+
+
